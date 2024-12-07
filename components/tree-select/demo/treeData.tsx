@@ -36,7 +36,7 @@ const App: React.FC = () => {
       value={value}
       dropdownStyle={{ maxHeight: 400, overflow: 'auto' }}
       treeData={treeData}
-      placeholder="Please select"
+      placeholder="Tapşırıq növü seçin"
       treeDefaultExpandAll
       onChange={onChange}
     />
